@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1220,50:0f3d3e,100:14b886&height=220&section=header&text=Dhiraj%20Ray&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=I%20build%20systems%20that%20don't%20drop%20messages&descAlignY=62&descSize=18" width="100%" alt="Dhiraj Ray"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:0f3d3e&height=240&section=header&text=Dhiraj%20Ray&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20systems%20that%20don't%20drop%20messages&descAlignY=56&descSize=20" width="100%" alt="Dhiraj Ray"/>
 
 <a href="https://github.com/dhirajray-12">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=14B886&center=true&vCenter=true&width=640&lines=Full-stack+engineer+%E2%80%94+Go+%C2%B7+TypeScript+%C2%B7+React;Webhooks%2C+payments+and+real-time+dashboards;Currently+shipping+Relaya+%E2%9A%A1;If+it+retries%2C+it+should+be+idempotent." alt="typing intro"/>
