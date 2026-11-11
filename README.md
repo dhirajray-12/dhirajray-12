@@ -25,8 +25,8 @@
 > 🤝 Open to collaboration and freelance work. Reach out below.
 >
 > <a href="https://github.com/dhirajray-12"><img src="https://img.shields.io/badge/GitHub-01102d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+> <a href="https://www.linkedin.com/in/dhiraj-ray-849084189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 > <!-- Fill these in with your links, then uncomment:
-> <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 > <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 > <a href="https://YOUR-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-41c350?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 > -->
@@ -47,6 +47,7 @@
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
